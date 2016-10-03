@@ -1,0 +1,82 @@
+html {
+	height: 100%;
+	width: 100%;
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+body {
+	background-position: center;
+	background-repeat: no-repeat;
+	text-align: center;
+}
+
+h1 {
+	font-family: Helvetica;
+	text-align: center;
+	font-weight: lighter;
+	font-size: 100px;
+	margin-top: 15%;
+}
+
+i {
+	font-weight: lighter;
+}
+
+.footer {
+	margin-top: 15%;
+}
+
+#thx {
+	font-family: Helvetica;
+	text-align: center;
+	font-weight: lighter;
+	color: gray;
+	font-size: 50px;
+}
+
+#im {
+	width: 300px;
+	height: 300px;
+}
+
+#exc {
+	font-family: Helvetica;
+	text-align: center;
+	font-weight: lighter;
+	color: gray;
+	font-size: 50px;
+}
+
+#found {
+	font-family: Helvetica;
+	text-align: center;
+	font-weight: lighter;
+	color: gray;
+	font-size: 30px;
+}
+
+/*.round {
+	border-radius: 50%;
+    /*box-shadow: 0 0 40px 10px #fff;*/
+    -webkit-animation: preloader 1.5s infinite linear;
+    -moz-animation: preloader 1.5s infinite linear;
+    -ms-animation: preloader 1.5s infinite linear;
+    -o-animation: preloader 1.5s infinite linear;
+    animation: preloader 1.5s infinite linear;
+}
+@-webkit-keyframes preloader {
+	to { -webkit-transform: rotate(360deg); }
+}
+@-moz-keyframes preloader {
+    to { -moz-transform: rotate(360deg); }
+}
+@-ms-keyframes preloader {
+    to { -ms-transform: rotate(360deg); }
+}
+@-o-keyframes preloader {
+    to { -o-transform: rotate(360deg); }
+}
+@keyframes preloader {
+    to { transform: rotate(360deg); }
+}*/
