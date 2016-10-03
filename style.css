@@ -1,0 +1,54 @@
+html {
+	height: 100%;
+	width: 100%;
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+body {
+	background-position: center;
+	background-repeat: no-repeat;
+	text-align: center;
+}
+
+h1 {
+	font-family: Helvetica;
+	text-align: center;
+	font-weight: lighter;
+	font-size: 50px;
+	margin-top: 15%;
+}
+
+i {
+	font-weight: lighter;
+}
+
+.footer {
+	margin-top: 15%;
+}
+
+#thx {
+	font-family: Helvetica;
+	text-align: center;
+	font-weight: lighter;
+	color: gray;
+}
+
+#im {
+	width: 150px;
+	height: 150px;
+}
+
+#exc {
+	font-family: Helvetica;
+	text-align: center;
+	font-weight: lighter;
+	color: gray;
+}
+
+#found {
+	font-family: Helvetica;
+	text-align: center;
+	font-weight: lighter;
+	color: gray;
+}
